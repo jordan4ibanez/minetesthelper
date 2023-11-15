@@ -1,0 +1,13 @@
+{
+  "name": "minetesthelper",
+  "version": "1.0.0",
+  "description": "A helper for making minetest mods.",
+  "bin": {
+    "newminetestmod": "bin/init.js"
+  },
+  "author": "jordan4ibanez",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
